@@ -1,0 +1,4 @@
+#Window Name + Key for close terminal
+config:
+  name: "Mu Cosmic"
+  exit: "F1"
